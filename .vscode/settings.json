@@ -1,0 +1,4 @@
+{
+    "python.venvPath": "${workspaceFolder}/backend/env/bin/python3",
+    "python.pythonPath": "/usr/local/bin/python3"
+}
